@@ -49,9 +49,8 @@ Me chamo Brunoo Emanuel e estou começando na área de T.I estou gostando muito 
 
 
 
----
+
 <br/>
 <br/>
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)

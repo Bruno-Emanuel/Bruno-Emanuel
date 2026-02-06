@@ -67,7 +67,7 @@ Estou gostando muito da área e estudando bastante para aumentar meu conheciment
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Bruno-Emanuel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <!-- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Bruno-Emanuel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Bruno-Emanuel&theme=tokyonight"/>
 </p>
 
